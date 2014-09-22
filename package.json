@@ -1,0 +1,26 @@
+{
+  "name": "npm-synonym",
+  "version": "1.0.0",
+  "description": "Turn your three-word-phrase into an abbreviation of n-p-m.",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/npm-synonym"
+  },
+  "keywords": [
+    "npm",
+    "naming",
+    "naming-is-hard",
+    "language",
+    "synonyms"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/npm-synonym/issues"
+  },
+  "homepage": "https://github.com/zeke/npm-synonym",
+  "dependencies": {
+    "moby": "^0.3.2"
+  }
+}
