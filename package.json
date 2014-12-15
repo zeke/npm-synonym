@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/zeke/npm-synonym",
   "dependencies": {
-    "moby": "^0.3.2"
+    "moby": "^1.0.0"
   }
 }
