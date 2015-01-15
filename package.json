@@ -22,5 +22,6 @@
   "homepage": "https://github.com/zeke/npm-synonym",
   "dependencies": {
     "moby": "^1.0.0"
-  }
+  },
+  "preferGlobal": true
 }
